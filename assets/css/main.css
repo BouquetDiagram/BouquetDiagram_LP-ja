@@ -1,6 +1,15 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,600,700,300i,600i,700i|Raleway:600,800");
 
+.youtube {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}
+.youtube iframe {
+  width: 100%;
+  height: 100%;
+}
+
 /*
 	Paradigm Shift by HTML5 UP
 	html5up.net | @ajlkn
